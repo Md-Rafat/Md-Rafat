@@ -1,4 +1,39 @@
 
+# Hi, I'm Md Rafat Moyeen 👋
+
+## About Me
+
+I'm a master's student in International Management & Information Systems at South Westphalia University of Applied Sciences, Germany, with professional experience in product management, corporate sales and tender operations.
+
+I'm interested in Business Analytics, Business Intelligence, SAP/ERP and business process improvement. My academic and personal projects involve Power BI, SQL, Python, KNIME and SAP-related business applications.
+
+## Featured Projects
+
+### 1. Adventure Works Sales Analysis Dashboard
+**Tools:** Power BI, Power Query
+
+Interactive sales dashboard exploring business KPIs, product performance and sales trends.
+
+### 2. Maven Movies Business Analysis
+**Tool:** MySQL
+
+SQL-based business analysis using joins, aggregations and conditional logic to examine customers, inventory and business performance.
+
+### 3. Retail Sales Analysis
+**Tool:** SQL
+
+Data cleaning, exploratory data analysis and reporting to identify retail sales patterns.
+
+### 4. Movie Recommender System
+**Tools:** KNIME, Power BI, Python
+
+Movie recommendation project using IMDb data, analytical workflows and visualizations.
+
+### 5. [Power BI Executive Summary Dashboard](https://github.com/Md-Rafat/Power_BI_Executive_Summary_Dashboard)
+**Tool:** Power BI
+
+Introductory Power BI exercise involving basic data transformation and executive summary reporting.
+
 ## Certifications
 
 - [**Power BI Desktop**](https://certificates.mavenanalytics.io/3711c580-51d6-49ce-906b-b35a3351bb16) — Maven Analytics (2026)
@@ -10,5 +45,8 @@
 - [**Celonis Foundations**](https://www.credly.com/badges/e077a7d5-cc5c-460d-9fa2-6fc234da5abf) — Celonis (2024)
 - [**Data Analytics**](https://res.cloudinary.com/bohubrihi/image/upload/v1708979440/production/65dcf4edaa001c6dbccadff1.pdf) — BOHUBRIHI (2024)
 
-All certifications and credentials can also be viewed on my [LinkedIn profile](https://www.linkedin.com/in/mdrafatm/).
+## Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/mdrafatm](https://www.linkedin.com/in/mdrafatm/)
+- **Email:** moyeenmdrafat@gmail.com
 
