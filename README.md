@@ -26,8 +26,6 @@ Data cleaning, exploratory analysis and reporting to identify retail sales patte
 *Tools:* KNIME, Power BI, Python  
 Movie recommendation project using IMDb data, analytical workflows and visualization.
 
-### [Power BI Executive Summary Dashboard](https://github.com/Md-Rafat/Power_BI_Executive_Summary_Dashboard)
-Tools: Power BI
 
 ## Certifications
 
