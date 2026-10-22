@@ -9,21 +9,24 @@ I'm interested in Business Analytics, Business Intelligence, SAP/ERP and busines
 
 ## Featured Projects
 
-### Adventure Works Sales Analysis Dashboard
+### [Adventure Works Sales Analysis Dashboard](https://github.com/Md-Rafat/Adventure_Works_Sales_Analysis_Dashboard_Power_BI)
+
 *Tools:* Power BI, Power Query  
 Interactive dashboard exploring sales performance, product trends and key business KPIs.
 
-### Maven Movies Business Analysis
+### [Maven Movies Business Analysis](https://github.com/Md-Rafat/Maven_Movies_Business_Analysis_MySQL)
 *Tools:* MySQL  
 Business analysis using SQL joins, aggregations and conditional logic to examine customers, inventory and operational performance.
 
-### Retail Sales Analysis
+### [Retail Sales Analysis](https://github.com/Md-Rafat/SQL_Retail_Sales_Analysis)
 *Tools:* SQL  
 Data cleaning, exploratory analysis and reporting to identify retail sales patterns.
 
-### Movie Recommender System
+### [Movie Recommender System](https://github.com/Md-Rafat/Movie_Recommender_System)
 *Tools:* KNIME, Power BI, Python  
 Movie recommendation project using IMDb data, analytical workflows and visualization.
+
+### [Power BI Executive Summary Dashboard](https://github.com/Md-Rafat/Power_BI_Executive_Summary_Dashboard)
 
 ## Certifications
 
